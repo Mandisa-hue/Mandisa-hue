@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mandisa-hue
-- 👀 I’m interested in becoming a Cloud engineer
-- 🌱 I’m currently learning AWS,Azure and cyber security.
+- 👋 Hi, I’m @ Mandisa-hue
+- 👀 I’m interested in becoming a Cloud engineer. 
+- 🌱 I’m currently learning Linux, Bash Scripting,Python, Computer Networks, AWS Fundementals and DevOps Fundementals.
 - 💞️ I’m looking to collaborate on anything that will help me achieve my interest.
 - 📫 How to reach me on LinkedIn.
 
